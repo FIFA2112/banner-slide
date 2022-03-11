@@ -6,7 +6,7 @@
 
 ---
 ## 👩‍💻 Code ต้นฉบับ
-<a href="https://docs.google.com/document/d/18VcR-Gek2LpRP0ZzuDnLLRBVD6v1iq_fzRtXzKwPk0c/edit" target="_blank"><img src="https://img.shields.io/badge/original video-1977F3?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="https://docs.google.com/document/d/18VcR-Gek2LpRP0ZzuDnLLRBVD6v1iq_fzRtXzKwPk0c/edit" target="_blank"><img src="https://img.shields.io/badge/original code-1977F3?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 ---
 
